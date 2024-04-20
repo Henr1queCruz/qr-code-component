@@ -28,7 +28,6 @@ main {
   border-radius: 1.25rem;
   padding: 1rem;
   box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.0477);
-  margin-bottom: 1rem;
 }
 
 main img {
@@ -53,6 +52,8 @@ div p {
 }
 
 .attribution {
+  display: none;
+  margin-top: 1rem;
   font-size: 11px;
   text-align: center;
 }
