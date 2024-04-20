@@ -38,20 +38,17 @@ main img {
 
 div {
   padding: 0.9rem;
-}
-
-div p {
   text-align: center;
 }
 
-div p:nth-child(1) {
+div h1 {
   color: #1f314f;
   font-size: 1.3rem;
   font-weight: 700;
   margin-bottom: 1rem;
 }
 
-div p:nth-child(2) {
+div p {
   color: #7d889e;
 }
 
